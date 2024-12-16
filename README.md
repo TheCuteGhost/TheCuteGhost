@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Javier (>‿◠)✌</h1>
-<h3 align="center">I am a 15 year old teenager living in Mexico who likes programming and the color pink. (─‿‿─)</h3>
+<h3 align="center">I am a 17 year old teenager living in Mexico who likes programming and the color pink. (─‿‿─)</h3>
 
 <p align="Center"> <img src="https://komarev.com/ghpvc/?username=elcuteghost&label=Profile%20views&color=0e75b6&style=flat" alt="ElCuteGhost" /> </p>
 
